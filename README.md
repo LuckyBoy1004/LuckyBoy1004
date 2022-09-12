@@ -18,8 +18,3 @@
 
 <h3>💠 Wallet Connect and Smart Contract Integration</h3>
    &nbsp<p>🔸 Web3.js, Ether.js, Moralis</p>
-<style>
-   p {
-      margin-bottom:0px;
-   }
-</style>
