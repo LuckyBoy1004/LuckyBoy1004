@@ -3,7 +3,7 @@
 <p>I have also much experience about Node JS and PHP, MongoDB, Express.</p>
 <p>In Front End field, I have the most experience than other dev.</p>
 <h3>💠  Frontend Development</h3><br>
-   &nbsp<p>🔸 React.js, Next.js, Angular.js, Vue.js</p><
+   &nbsp<p>🔸 React.js, Next.js, Angular.js, Vue.js</p>
    &nbsp<p>🔸 Material UI, MDBReact, Kendo UI, Bootstrap, Tailwind CSS, Bulma CSS</p>
    &nbsp<p>🔸 Animation Websites</p>
    &nbsp<p>🔸 High performance, Pixel perfect, Full responsive</p>
@@ -16,5 +16,5 @@
    &nbsp<p>🔸 Test with Truffle or Hardhat</p>
    &nbsp<p>🔸 Test on test network</p>
 
-💠 <h3>Wallet Connect and Smart Contract Integration</h3>
+<h3>💠 Wallet Connect and Smart Contract Integration</h3>
    &nbsp<p>🔸 Web3.js, Ether.js, Moralis</p>
