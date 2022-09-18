@@ -1,11 +1,11 @@
 ## Thank you for visit my Github account!👋
 
-### About me @LuckyBoy1004 ("My Skype ID: live:.cid.11fc40b2b71fa3af")
--I am a javascript, javascript framework, php and php framework expert
+### About me @LuckyBoy1004
+-I am a <i>javascript</i>, <i>javascript framework</i>, <i>php</i> and <i>php framework</i> expert
 <br></br>
--My main skill: React, node.js, Angular, Next.js, Vue,js, express, css, PHP, laravel, javascript, html5 etc...
+-My main skill: <i>React</i>, <i>node.js</i>, <i>Angular</i>, <i>Next.js</i>, <i>Vue,js</i>, <i>express</i>, <i>css</i>, <i>PHP</i>, <i>laravel</i>, <i>javascript</i>, <i>html5</i> etc...
 <br></br>
--My database skill: MongoDB, Mysql, Postgresql, Firebase realtime database etc... 
+-My database skill: <i>MongoDB, Mysql, Postgresql, Firebase realtime database</i> etc... 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Javascript+and+JavaScript+framework+Developer;Frontend+developer;over+5+years+of+programming+experience" alt="Typing SVG" /></a>
 
