@@ -1,9 +1,5 @@
 ## Thank you for visit my Github account!👋
 
-<p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=CodeMaster7000&show_icons=true&locale=en&theme=tokyonight"                alt="CodeMaster7000"/>
-<img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster7000&theme=tokyonight" alt="CodeMaster7000" />
-
 ### About me @LuckyBoy1004 ("My Skype ID: live:.cid.11fc40b2b71fa3af")
 -I am a javascript, javascript framework, php and php framework expert
 <br></br>
@@ -15,8 +11,6 @@
 
 - 🎇 On December 1th 2013, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on MERN, MEAN, MEVN, and Blockchain projects, I am also working on PHP projects.
-
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### Languages and Tools: 
 
