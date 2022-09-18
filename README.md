@@ -9,7 +9,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Javascript+and+JavaScript+framework+Developer;Frontend+developer;over+5+years+of+programming+experience" alt="Typing SVG" /></a>
 
-- 🎇 On December 1th 2013, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
+- 🎇 On December 1th 2012, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on MERN, MEAN, MEVN, and Blockchain projects, I am also working on PHP projects.
 
 ### Languages and Tools: 
