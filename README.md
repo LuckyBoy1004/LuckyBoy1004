@@ -1,16 +1,16 @@
 ## Thank you for visit my Github account!👋
 
 ### About me @LuckyBoy1004
--I am a <i>javascript</i>, <i>javascript framework</i>, <i>php</i> and <i>php framework</i> expert
+-I am a <i>React</i>, <i>Node</i>, <i>php</i> and <i>Restfull</i> expert
 <br></br>
--My main skill: <i>React</i>, <i>node.js</i>, <i>Angular</i>, <i>Next.js</i>, <i>Vue,js</i>, <i>express</i>, <i>css</i>, <i>PHP</i>, <i>laravel</i>, <i>javascript</i>, <i>html5</i> etc...
+-My main skill: <i>React</i>, <i>node.js</i>, <i>Angular</i>, <i>Next.js</i>, <i>Vue,js</i>, <i>express</i>, <i>Rest</i>, <i>PHP</i>, <i>laravel</i>, <i>AWS</i>, <i>shopify</i> etc...
 <br></br>
 -My database skill: <i>MongoDB, Mysql, Postgresql, Firebase realtime database</i> etc... 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Javascript+and+JavaScript+framework+Developer;Frontend+developer;over+8+years+of+programming+experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Javascript+and+JavaScript+framework+Developer;Full Stack+developer;over+8+years+of+programming+experience" alt="Typing SVG" /></a>
 
 - 🎇 On December 1th 2012, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
-- 🔭 I am currently working on MERN, MEAN, MEVN, and Blockchain projects, I am also working on PHP projects.
+- 🔭 I am currently working on React, node, python, Restfull, and Blockchain projects, I am also working on PHP projects.
 
 ### Languages and Tools: 
 
