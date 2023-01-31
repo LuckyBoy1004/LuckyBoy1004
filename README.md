@@ -7,14 +7,12 @@
 <br></br>
 -My database skill: <i>MongoDB, Mysql, Postgresql, Firebase realtime database</i> etc... 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Javascript+and+JavaScript+framework+Developer;Full Stack+developer;over+8+years+of+programming+experience" alt="Typing SVG" /></a>
 
 - 🎇 On December 1th 2012, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on React, node, python, Restfull, and Blockchain projects, I am also working on PHP projects.
 
 ### Languages and Tools: 
 
-<code><img width="10%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodecanyon.net%2Fsearch%2Fflutter%2520buy&psig=AOvVaw0B8bG26UZrRsdiSeJPI_wS&ust=1675270780632000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLib6Y-k8vwCFQAAAAAdAAAAABAF"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/readmeio/readmeio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
