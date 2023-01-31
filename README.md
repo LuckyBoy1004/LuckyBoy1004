@@ -1,9 +1,9 @@
 ## Thank you for visit my Github account!👋
 
 ### About me @LuckyBoy1004
--I am a <i>React</i>, <i>Node</i>, <i>php</i> and <i>Restfull</i> expert
+-I am a <i>Flutter</i>, <i>React</i>, <i>php</i> and <i>Javascript</i> expert
 <br></br>
--My main skill: <i>React</i>, <i>node.js</i>, <i>Angular</i>, <i>Next.js</i>, <i>Vue,js</i>, <i>express</i>, <i>Rest</i>, <i>PHP</i>, <i>laravel</i>, <i>AWS</i>, <i>shopify</i> etc...
+-My main skill: <i>Flutter</i>, <i>React</i>, <i>Angular</i>, <i>Next.js</i>, <i>Vue,js</i>, <i>express</i>, <i>Golang</i>, <i>PHP</i>, <i>laravel</i>, <i>AWS</i>, <i>shopify</i> etc...
 <br></br>
 -My database skill: <i>MongoDB, Mysql, Postgresql, Firebase realtime database</i> etc... 
 
