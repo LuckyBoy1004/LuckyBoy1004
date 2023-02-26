@@ -1,14 +1,14 @@
 ## Thank you for visit my Github account!👋
 
 ### About me @LuckyBoy1004
--I am a <i>Flutter</i>, <i>React</i>, <i>php</i> and <i>Javascript</i> expert
+-I am a <i>Solidity</i>, <i>Flutter</i>, <i>php</i> and <i>Javascript</i> expert
 <br></br>
--My main skill: <i>Flutter</i>, <i>React</i>, <i>Angular</i>, <i>Next.js</i>, <i>Vue,js</i>, <i>express</i>, <i>Golang</i>, <i>PHP</i>, <i>laravel</i>, <i>AWS</i>, <i>shopify</i> etc...
+-My main skill: <i>Solidity</i>, <i>Flutter</i>, <i>Angular</i>, <i>Next.js</i>, <i>Vue,js</i>, <i>express</i>, <i>Golang</i>, <i>React</i>, <i>laravel</i>, <i>AWS</i>, <i>shopify</i> etc...
 <br></br>
 -My database skill: <i>MongoDB, Mysql, Postgresql, Firebase realtime database</i> etc... 
 
 
-- 🎇 On December 1th 2012, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
+- 🎇 On December 1th 2014, I started my Github journey. I had been coding for a while before that, but it was the first time I had ever posted my code on the internet for the general public to see.
 - 🔭 I am currently working on React, node, python, Restfull, and Blockchain projects, I am also working on PHP projects.
 
 ### Languages and Tools: 
